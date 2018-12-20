@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RootFolder</name>
+   <tag></tag>
+   <elementGuidId>fd0f9166-4611-40c5-ae9f-809e07a45986</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;expandViewWrapper&quot;]/div/div[1]/ng-scrollbar/div/div/div/app-repository-tree/div/ul/li/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;expandViewWrapper&quot;]/div/div[1]/ng-scrollbar/div/div/div/app-repository-tree/div/ul/li/div</value>
+   </webElementProperties>
+</WebElementEntity>

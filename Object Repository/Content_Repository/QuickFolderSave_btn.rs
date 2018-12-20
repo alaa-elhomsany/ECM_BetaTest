@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>QuickFolderSave_btn</name>
+   <tag></tag>
+   <elementGuidId>e3979b73-2af5-4f27-b034-65ba0d9bb597</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/div/app-repository/div/div/div/div[2]/p-footer/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-repository/div/div/div/div[2]/p-footer/button[2]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateQuickFolder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc360c5b-0bf1-4298-843c-1f58314d37b8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fbb5d77c-c94b-4c47-b2f1-6d00469c256e</id>
+      <masked>false</masked>
+      <name>FolderName</name>
+   </variable>
+</TestCaseEntity>

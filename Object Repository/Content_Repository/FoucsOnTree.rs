@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FoucsOnTree</name>
+   <tag></tag>
+   <elementGuidId>6a5731df-97de-4224-8e75-d0c82085e218</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;expandViewWrapper&quot;]/div/div[1]/ng-scrollbar/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;expandViewWrapper&quot;]/div/div[1]/ng-scrollbar/div/div</value>
+   </webElementProperties>
+</WebElementEntity>
